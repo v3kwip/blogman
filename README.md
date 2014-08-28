@@ -17,5 +17,4 @@ Single web application to manage content cross blog instances
 1. Social
   1. Auto submit to social networks
 1. Quick statistics
-1. SAAS: can work on web based, tablet, phones.
 1. Backup
